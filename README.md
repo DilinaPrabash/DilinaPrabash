@@ -101,4 +101,14 @@ My goal is to become a skilled Full Stack Developer by continuously learning, bu
 
 ---
 
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="YOUR_LINKEDIN_PROFILE_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+
 ⭐ Thanks for visiting my GitHub profile!
