@@ -105,7 +105,7 @@ My goal is to become a skilled Full Stack Developer by continuously learning, bu
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_PROFILE_URL">
+  <a href="https://www.linkedin.com/in/dilina-prabash-086997343?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
