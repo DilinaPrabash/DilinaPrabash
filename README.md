@@ -53,6 +53,23 @@ I enjoy learning new technologies, solving problems, and developing real-world s
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DilinaPrabash&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilinaPrabash&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+
+## 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DilinaPrabash&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
+
+
+
+
 ## 📌 Featured Projects
 
 ### FASHORA
